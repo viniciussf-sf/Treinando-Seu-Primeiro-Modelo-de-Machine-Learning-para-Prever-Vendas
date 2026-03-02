@@ -185,6 +185,6 @@ Preparação para deploy
 
 👨‍💻 Autor
 
-Seu Nome Aqui
-[Seu LinkedIn]
-[Seu GitHub]
+Vinicius Saroldi
+
+[[Seu GitHub](https://github.com/viniciussf-sf/Treinando-Seu-Primeiro-Modelo-de-Machine-Learning-para-Prever-Vendas/edit/main/README.md)]
