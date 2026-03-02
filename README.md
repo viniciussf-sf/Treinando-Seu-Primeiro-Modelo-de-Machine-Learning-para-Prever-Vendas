@@ -50,24 +50,33 @@ Temperatura (°C)	Vendas
 Observação: Os dados demonstram forte correlação positiva entre temperatura e vendas.
 
 🏗️ Estrutura do Projeto
+
 ice-cream-sales-predictor/
-│
+
 ├── inputs/
-│   └── dados_vendas.csv
-│
+   
+   └── dados_vendas.csv
+
 ├── notebooks/
-│   └── exploracao.ipynb
-│
+   
+   └── exploracao.ipynb
+
 ├── src/
-│   ├── train.py
-│   ├── predict.py
-│   └── pipeline.py
-│
+   
+   ├── train.py
+   
+   ├── predict.py
+   
+   └── pipeline.py
+
 ├── models/
-│
+
 ├── requirements.txt
+
 ├── README.md
+
 └── .gitignore
+
 🔄 Pipeline do Projeto
 
 📥 Coleta e carregamento dos dados
